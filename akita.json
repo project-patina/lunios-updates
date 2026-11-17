@@ -1,6 +1,17 @@
 {
   "response": [
     {
+      "datetime": 1794953084,
+      "filename": "LuniOS-1.1.1-beta-20261117-akita.zip",
+      "id": "a83ffe81ec10413c63a4941413aa6439d86622ad95e7c6d022753e8b20d924ed",
+      "romtype": "BETA",
+      "size": 1725276237,
+      "url": "https://github.com/project-patina/lunios-updates/releases/download/v1.1.1-beta-20261117/LuniOS-1.1.1-beta-20261117-akita.zip",
+      "version": "1.1.1-beta",
+      "changelog": "## LuniOS 1.1.1 Beta\n\nA fix-up release for Settings and LuniOS Updates.\n\n- **Settings:** lists now scroll smoothly under the transparent top bar. Rows no longer get cut off on a line or leave an empty frame, and they fade gently into the background near the top. The back button and the title pill always stay on top.\n- **What's new screen:** after every update, the LuniOS logo rises like in the setup wizard and shows what changed in the new version.\n- **LuniOS Updates:**\n  - No more false \"Installation failed\" message after a successful update.\n  - New releases show up right away, without waiting for the server cache.\n  - Beta channel releases appear only when the Beta channel is selected.",
+      "os_patch_level": "2026-11-01"
+    },
+    {
       "datetime": 1794944006,
       "filename": "LuniOS-1.1-20261117-akita.zip",
       "id": "2b4d00c2a07854b1abe07fd2c82c980fb74544a78b67809e3589c1f87ce3cbea",
