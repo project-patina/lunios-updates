@@ -1,6 +1,17 @@
 {
   "response": [
     {
+      "datetime": 1795020280,
+      "filename": "LuniOS-1.2.2-beta-20261118-akita.zip",
+      "id": "4ba07fd5c66a32edf6651359b33814de5e4d46b645ec77085f63a41894f7fb05",
+      "romtype": "BETA",
+      "size": 1725297687,
+      "url": "https://github.com/project-patina/lunios-updates/releases/download/v1.2.2-beta-20261118/LuniOS-1.2.2-beta-20261118-akita.zip",
+      "version": "1.2.2-beta",
+      "changelog": "## LuniOS 1.2.2 beta\n\nA small fix-up release.\n\n### Fixed\n- **Luni Labs unlock:** every tap on **LuniOS version** now counts toward unlocking Luni Labs, at any speed, just like Developer options. Before, fast taps opened the easter egg instead and Labs could not be unlocked.\n- After unlocking, tapping the version again tells you Luni Labs is already unlocked.\n\n### Changed\n- **Moon easter egg** moved to the LuniOS logo at the top of Settings (LuniOS page, About LuniOS and About phone). Tap the logo 5 times quickly; it jiggles on every tap.\n\n### Notes\n- This release also includes the recovery images (boot, dtbo, vendor_kernel_boot, vendor_boot) for fresh installs.",
+      "os_patch_level": "2026-11-01"
+    },
+    {
       "datetime": 1795006821,
       "filename": "LuniOS-1.2.1-beta-20261118-akita.zip",
       "id": "4d7d159ddccfcf742f19a8c0bd68046e78e3eeecdb9272e083fc76f6869ec1d4",
