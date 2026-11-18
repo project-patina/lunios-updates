@@ -52,7 +52,7 @@
       "size": 1725265538,
       "url": "https://github.com/project-patina/lunios-updates/releases/download/v1.1-20261117/LuniOS-1.1-20261117-akita.zip",
       "version": "1.1",
-      "changelog": "## LuniOS 1.1 (testowa)\n\nPierwsza aktualizacja przez sieć, prosto z Ustawień.\n\n- **Ustawienia:** karty płynnie przewijają się pod przezroczysty pasek. Koniec z ucinaniem wierszy na linii i pustą ramką u góry.\n- **Pasek tytułu:** napis w szklanej pigułce na środku jest widoczny na każdej stronie.\n- **Aktualizacje LuniOS:** sprawdzanie, pobieranie i instalacja w tle na drugi slot.",
+      "changelog": "## LuniOS 1.1 (test)\n\nThe first over-the-air update, straight from Settings.\n\n- **Settings:** cards scroll smoothly under the transparent top bar. No more rows cut off on a line or an empty frame at the top.\n- **Title bar:** the title in the centered glass pill is visible on every page.\n- **LuniOS Updates:** checks, downloads and installs updates in the background to the second slot.",
       "os_patch_level": "2026-11-01"
     }
   ]
