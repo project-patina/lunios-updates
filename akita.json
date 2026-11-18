@@ -1,6 +1,17 @@
 {
   "response": [
     {
+      "datetime": 1795006821,
+      "filename": "LuniOS-1.2.1-beta-20261118-akita.zip",
+      "id": "4d7d159ddccfcf742f19a8c0bd68046e78e3eeecdb9272e083fc76f6869ec1d4",
+      "romtype": "BETA",
+      "size": 1725299397,
+      "url": "https://github.com/project-patina/lunios-updates/releases/download/v1.2.1-beta-20261118/LuniOS-1.2.1-beta-20261118-akita.zip",
+      "version": "1.2.1-beta",
+      "changelog": "## LuniOS 1.2.1 beta\n\n### New: Luni Labs\nA hidden page for experimental features. To unlock it, go to Settings > About phone and tap **LuniOS version** 7 times at a steady pace (about once per second). Luni Labs then shows up at the bottom of the LuniOS section. You can hide it again from inside the page.\n\n### Experiment: Island notifications\nWhen turned on in Luni Labs, incoming notifications appear in **Luna Island** instead of the regular pop-up:\n- A glass card opens from the camera cutout with the app, title, message and avatar.\n- Up to 3 action buttons from the app (e.g. Mark as read, Archive).\n- Tap the card to open the app, swipe up to dismiss. The card closes on its own after 6 seconds, and the notification stays in the shade.\n- Calls, alarms and the lock screen keep the regular style.\n- Reply actions open the app for now. Inline replies are coming later.\n\n### Notes\n- Island notifications are experimental and off by default.",
+      "os_patch_level": "2026-11-01"
+    },
+    {
       "datetime": 1794990412,
       "filename": "LuniOS-1.2.0-beta-20261118-akita.zip",
       "id": "9882d2278aa2568e34f34d25fed589fe9586909a6b2ae697ba3eaa2ca5290744",
