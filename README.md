@@ -1,3 +1,5 @@
-# LuniOS - aktualizacje OTA
+# LuniOS OTA updates
 
-Lista wydan dla Pixela 8a (akita): `akita.json`. Paczki sa w zakladce Releases.
+Release list for the Google Pixel 8a (akita): `akita.json`. Builds are attached to the Releases.
+
+This feed is read by the LuniOS Updates app on the phone. Website: see the LuniOS site.
