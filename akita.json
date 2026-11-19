@@ -1,6 +1,17 @@
 {
   "response": [
     {
+      "datetime": 1795102220,
+      "filename": "LuniOS-1.4.0-beta-20261119-akita.zip",
+      "id": "5f66c8c67983996fe3b688fb365abf6df2df3fc2742b5fa06b4bb3966d0141ba",
+      "romtype": "BETA",
+      "size": 1718556605,
+      "url": "https://github.com/project-patina/lunios-updates/releases/download/v1.4.0-beta-20261119/LuniOS-1.4.0-beta-20261119-akita.zip",
+      "version": "1.4.0-beta",
+      "changelog": "## LuniOS 1.4.0 beta\n\nSecurity gets a new face, and the setup wizard gets a fresh coat of glass.\n\n### New\n- **LuniOS security** (formerly Crescent): new name, a padlock icon, and a redesigned page in Settings > LuniOS. The padlock at the top shows the state at a glance: blue when your phone is secured, amber when something needs a look, red for a real problem. Below it: grouped glass cards for the security checks, USB protection and alerts.\n- After updating you get a one-time **\"Your phone is secured\"** notification with the padlock.\n- **Setup wizard:**\n  - Same \"deep space\" background as Settings, and the liquid glass look of the rest of LuniOS.\n  - A PIN-locked SIM no longer interrupts setup with the system SIM PIN screen right at the start. You enter the SIM PIN in its own step after Wi-Fi. If you skip it, the normal SIM PIN screen appears once setup is done.\n  - A new step introducing LuniOS security.\n- **Luni Labs: Glassy apps** (experimental): app windows show your blurred wallpaper through a soft glass tint. Works best in LuniOS apps; many third-party apps paint their own background and stay unchanged.\n\n### Fixed\n- The screen lock type picker (None, Swipe, Pattern, PIN, Password) no longer shows dark squares beside the options.\n\n### Notes\n- Updating from **1.3.0 beta** works over the air.\n- Phones on 1.2.x or older still need the one-time clean install described in the 1.3.0 notes.\n- This release includes the recovery images (boot, dtbo, vendor_kernel_boot, vendor_boot) for fresh installs.",
+      "os_patch_level": "2026-11-01"
+    },
+    {
       "datetime": 1795029975,
       "filename": "LuniOS-1.3.0-beta-20261119-akita.zip",
       "id": "a88507aaafeabfc063ffc3dbd00e1245e8609baa26a60e2b261c04a7b5f971b4",
