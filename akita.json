@@ -76,17 +76,6 @@
       "version": "1.1.1-beta",
       "changelog": "## LuniOS 1.1.1 Beta\n\nA fix-up release for Settings and LuniOS Updates.\n\n- **Settings:** lists now scroll smoothly under the transparent top bar. Rows no longer get cut off on a line or leave an empty frame, and they fade gently into the background near the top. The back button and the title pill always stay on top.\n- **What's new screen:** after every update, the LuniOS logo rises like in the setup wizard and shows what changed in the new version.\n- **LuniOS Updates:**\n  - No more false \"Installation failed\" message after a successful update.\n  - New releases show up right away, without waiting for the server cache.\n  - Beta channel releases appear only when the Beta channel is selected.",
       "os_patch_level": "2026-11-01"
-    },
-    {
-      "datetime": 1794944006,
-      "filename": "LuniOS-1.1-20261117-akita.zip",
-      "id": "2b4d00c2a07854b1abe07fd2c82c980fb74544a78b67809e3589c1f87ce3cbea",
-      "romtype": "RELEASE",
-      "size": 1725265538,
-      "url": "https://github.com/project-patina/lunios-updates/releases/download/v1.1-20261117/LuniOS-1.1-20261117-akita.zip",
-      "version": "1.1",
-      "changelog": "## LuniOS 1.1 (test)\n\nThe first over-the-air update, straight from Settings.\n\n- **Settings:** cards scroll smoothly under the transparent top bar. No more rows cut off on a line or an empty frame at the top.\n- **Title bar:** the title in the centered glass pill is visible on every page.\n- **LuniOS Updates:** checks, downloads and installs updates in the background to the second slot.",
-      "os_patch_level": "2026-11-01"
     }
   ]
 }
