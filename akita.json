@@ -1,6 +1,17 @@
 {
   "response": [
     {
+      "datetime": 1795113476,
+      "filename": "LuniOS-1.4.1-beta-20261119-akita.zip",
+      "id": "7064732d66f95e60c61e579da54e4f15c9c22b9afe2a85e7e4ce6608e9a28ce0",
+      "romtype": "BETA",
+      "size": 1718589439,
+      "url": "https://github.com/project-patina/lunios-updates/releases/download/v1.4.1-beta-20261119/LuniOS-1.4.1-beta-20261119-akita.zip",
+      "version": "1.4.1-beta",
+      "changelog": "## LuniOS 1.4.1 beta\n\nGlass icons replace the Glassy apps experiment.\n\n### New\n- **Luni Labs: Glass icons** (experimental): your home screen icons turn into frosted glass. The wallpaper shows blurred through each tile, and the app's symbol becomes glass too. Works on the home screen, dock, folders, app drawer and search.\n- Works for every app with one automatic method, no hand-made icons: LuniOS uses the app's monochrome icon if it has one, otherwise cuts the symbol out of the icon itself. Apps installed later work the same way.\n- Turn it on in Settings > LuniOS > Luni Labs > Glass icons. Icons switch right away.\n\n### Changed\n- **Glassy apps** is removed. It only changed the window background behind apps, which most apps cover with their own, so it had almost no visible effect.\n\n### Notes\n- Updating from **1.3.0 beta** or **1.4.0 beta** works over the air.\n- Icons that are photos or detailed artwork may look less clean as glass.\n- This release includes the recovery images (boot, dtbo, vendor_kernel_boot, vendor_boot) for fresh installs.",
+      "os_patch_level": "2026-11-01"
+    },
+    {
       "datetime": 1795102220,
       "filename": "LuniOS-1.4.0-beta-20261119-akita.zip",
       "id": "5f66c8c67983996fe3b688fb365abf6df2df3fc2742b5fa06b4bb3966d0141ba",
